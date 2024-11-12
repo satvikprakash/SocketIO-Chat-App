@@ -12,7 +12,7 @@ Real-Time Messaging: Messages sent by users in a room are delivered to other par
 Room Isolation: Communication is restricted to the room a user is currently in. Users cannot send messages between rooms.
 WebSocket-based Architecture: Utilizes WebSockets to ensure persistent, real-time communication channels between clients and the server.
 
-Clone this project and enter the directory where package.json file is present
-Once you're inside the directory, run the dev script for making your own changes and viewing them
-Run the dev script: npm run dev - for viewing your changes
+Clone this project and enter the directory where package.json file is present.
+Once you're inside the directory, run the dev script for making your own changes and viewing them.
+Run the dev script: npm run dev - for viewing your changes.
 Run the start script: npm start - for viewing the project when its completely done.
